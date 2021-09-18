@@ -1,0 +1,5 @@
+rootProject.name = 'HomeworkJavaCore4Gradle'
+include 'db'
+include 'service'
+include 'api'
+
